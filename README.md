@@ -27,9 +27,9 @@
 ---
 
 ## 📊 GitHub Stats
-![stats](https://github-readme-stats.vercel.app/api?username=NathanLabs-5)
+![stats](https://github-readme-stats.vercel.app/api?username=NathanLabs-5&show_icons=true)
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanLabs-5)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanLabs-5&layout=compact)
 
 ---
 
