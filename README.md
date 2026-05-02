@@ -1,5 +1,9 @@
 # 👋 Fala, eu sou Nathan
 
+<img src="https://readme-typing-svg.herokuapp.com?color=7F00FF&size=30&center=true&vCenter=true&width=500&lines=NathanLabs;Backend+Developer;Python+%7C+Java" />
+
+
+
 🎓 Estudante de Sistemas de Informação (Unifacisa)  
 💻 Focado em desenvolvimento backend  
 🚀 Buscando evoluir pra estágio
