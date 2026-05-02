@@ -6,10 +6,11 @@
 
 ---
 
-## 🧠 Tecnologias que uso
-- Python 🐍
-- Java ☕
-- SQL 🗄️
+<h2>🚀 Tecnologias que uso</h2>
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40" />
+</p>
 
 ---
 
@@ -26,10 +27,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![stats](https://github-readme-stats.vercel.app/api?username=NathanLabs-5&show_icons=true)
-
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanLabs-5&layout=compact)
 
 ---
 
