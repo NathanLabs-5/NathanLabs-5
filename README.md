@@ -28,7 +28,6 @@
 
 - Java e Programação Orientada a Objetos
 - Banco de Dados (MySQL)
-- APIs REST
 - Estruturas de Dados
 - Boas práticas de desenvolvimento backend
 
