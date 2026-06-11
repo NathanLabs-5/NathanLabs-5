@@ -1,33 +1,59 @@
-# 👋 Fala, eu sou Nathan
+<p align="center">
+  <img src="assets/blackhole.jpg" width="100%">
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=7F00FF&size=30&center=true&vCenter=true&width=500&lines=NathanLabs;Backend+Developer;Python+%7C+Java" />
+<h1 align="center">👋 Olá, eu sou Nathan</h1>
 
-🎓 Estudante de Sistemas de Informação (Unifacisa)  
-💻 Focado em desenvolvimento backend  
-🚀 Buscando evoluir pra estágio
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=30&center=true&vCenter=true&width=600&lines=NathanLabs;Backend+Developer;Java+%7C+Python+%7C+SQL" />
+</p>
+
+<p align="center">
+🎓 Sistemas de Informação - Unifacisa <br>
+💻 Desenvolvedor Backend em formação <br>
+🚀 Construindo projetos e evoluindo rumo ao primeiro estágio
+</p>
 
 ---
 
-## 🚀 Tecnologias que uso
+## 🚀 Tecnologias
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" />
 </p>
 
 ---
 
 ## 📚 Atualmente estudando
-- APIs REST (FastAPI / Java)
-- Banco de Dados
-- Estruturas e boas práticas
+
+- Java e Programação Orientada a Objetos
+- Banco de Dados (MySQL)
+- APIs REST
+- Estruturas de Dados
+- Boas práticas de desenvolvimento backend
 
 ---
 
 ## 🚀 Projetos
-🔹 Sistema de cadastro (Python)  
-🔹 CRUD com banco de dados  
+
+🔹 Sistema de Cadastro em Python
+
+🔹 Mini E-commerce em Java + SQL
+
+🔹 CRUD com Banco de Dados
+
+🔹 Projetos acadêmicos e estudos pessoais
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NathanLabs-5&show_icons=true&theme=transparent" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanLabs-5&layout=compact&theme=transparent" />
+</p>
 
 ---
 
@@ -42,4 +68,5 @@
 ---
 
 ## 🎯 Objetivo
-Conseguir minha primeira oportunidade como dev e evoluir constantemente 🚀
+
+Conseguir minha primeira oportunidade como desenvolvedor backend e continuar evoluindo em Java, Python e Banco de Dados.
