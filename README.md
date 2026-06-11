@@ -1,4 +1,3 @@
-![Black Hole](assets/blackhole.jpg)
 
 <h1 align="center">👋 Olá, eu sou Nathan</h1>
 
