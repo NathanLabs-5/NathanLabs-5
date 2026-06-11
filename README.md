@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/blackhole.jpg" width="100%">
-</p>
+![Black Hole](assets/blackhole.jpg)
 
 <h1 align="center">👋 Olá, eu sou Nathan</h1>
 
