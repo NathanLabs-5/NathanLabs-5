@@ -1,4 +1,4 @@
-
+<img width="736" height="414" alt="Image" src="https://github.com/user-attachments/assets/8afa53dc-f3a4-4b56-b366-d11d666f4448" />
 <h1 align="center">👋 Olá, eu sou Nathan</h1>
 
 <p align="center">
