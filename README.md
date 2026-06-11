@@ -1,5 +1,6 @@
-<img width="736" height="414" alt="Image" src="https://github.com/user-attachments/assets/8afa53dc-f3a4-4b56-b366-d11d666f4448" />
-<h1 align="center">👋 Olá, eu sou Nathan</h1>
+<p align="center">
+  <img width="736" height="414" alt="Image" src="https://github.com/user-attachments/assets/8afa53dc-f3a4-4b56-b366-d11d666f4448" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=30&center=true&vCenter=true&width=600&lines=NathanLabs;Backend+Developer;Java+%7C+Python+%7C+SQL" />
