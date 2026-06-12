@@ -53,13 +53,16 @@
 # GitHub Stats
 
 <p align="center">
-  <img width="49%"
-       src="https://github-readme-stats.vercel.app/api?username=NathanLabs-5&show_icons=true&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF" />
-
-  <img width="37%"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanLabs-5&layout=compact&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&border_color=FFFFFF" />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=NathanLabs-5&show_icons=true&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF"
+  />
+  
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanLabs-5&layout=compact&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&border_color=FFFFFF"
+  />
 </p>
----
 
 # Contribuições
 
