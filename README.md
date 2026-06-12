@@ -65,7 +65,7 @@
 
 <td width="35%" align="center">
 
-<img src="SEU_GIF" width="230"/>
+ <img width="230" height="230" alt="Black And White Animation GIF" src="https://github.com/user-attachments/assets/99443fcd-bf3b-40ee-b4b9-95ac884ff50a" />
 
 </td>
 
