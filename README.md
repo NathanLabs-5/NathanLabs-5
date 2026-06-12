@@ -28,30 +28,28 @@
 </p>
 
 ---
-
 <table>
 <tr>
 
-<td width="70%">
+<td>
 
-### Atualmente estudando
+## Atualmente estudando
 
 - Java e Programação Orientada a Objetos
 - Banco de Dados (MySQL)
 - Estruturas de Dados
-- Backend
+- Boas práticas de desenvolvimento Backend
 
 </td>
 
-<td width="30%">
+<td>
 
-<img width="150" src="SEU_GIF">
+<img width="120" src="https://github.com/user-attachments/assets/d89abd3c-d41d-4007-aa00-bbdf03adf569">
 
 </td>
 
 </tr>
 </table>
-
 # Projetos
 
 🔹 Sistema de Cadastro em Python
