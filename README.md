@@ -32,6 +32,9 @@
 - Estruturas de Dados
 - Boas práticas de desenvolvimento Backend
 
+ <img width="300" height="300" alt="pixel deep futuristic design ai aesthetic" src="https://github.com/user-attachments/assets/e995113b-55fc-40af-915b-aa4a1ca0e738" />
+
+
 ---
 
 # Projetos
@@ -79,8 +82,4 @@ Conseguir minha primeira oportunidade como desenvolvedor Backend e continuar evo
 
 </tr>
 </table>
-  <img width="735" height="700" alt="pixel deep futuristic design ai aesthetic" src="https://github.com/user-attachments/assets/e995113b-55fc-40af-915b-aa4a1ca0e738" />
-<img width="735" height="700" alt="pixel deep futuristic design ai aesthetic" src="https://github.com/user-attachments/assets/8ecf501b-a36a-4744-9d35-521eb5592cfc" />
-
-
-
+ 
