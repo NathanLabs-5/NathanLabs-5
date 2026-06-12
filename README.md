@@ -35,7 +35,7 @@
 - JDBC
 - Estruturas de Dados
 
-<img width="300" height="300" alt="pixel deep futuristic design ai aesthetic" src="https://github.com/user-attachments/assets/e995113b-55fc-40af-915b-aa4a1ca0e738" />
+
 
 
 ---
