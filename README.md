@@ -43,8 +43,6 @@
       - Projetos acadêmicos e estudos pessoais
   </td>
       <img width="230" height="230" alt="Black And White Animation GIF" src="https://github.com/user-attachments/assets/99443fcd-bf3b-40ee-b4b9-95ac884ff50a" />
-  </tr>
-</table>
 
 ---
 
