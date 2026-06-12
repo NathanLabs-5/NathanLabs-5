@@ -53,8 +53,9 @@
 # GitHub Stats
 
 <p align="center"> 
- <img height="170" src="https://github-readme-stats.vercel.app/api?username=NathanLabs-5&show_icons=true&theme=transparent" />
- <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanLabs-5&layout=compact&theme=transparent" />
+ <img height="170" src="https://github-readme-stats.vercel.app/api?username=NathanLabs-5&show_icons=true&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF" />
+ 
+ <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanLabs-5&layout=compact&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&border_color=FFFFFF" />
 </p>
 
 ---
