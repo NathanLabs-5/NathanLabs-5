@@ -27,14 +27,16 @@
 # Atualmente estudando
 
 <p align="center">
-  <img width="300" height="300" alt="pixel deep futuristic design ai aesthetic" src="https://github.com/user-attachments/assets/e995113b-55fc-40af-915b-aa4a1ca0e738" />
+  <img src="SUA_IMAGEM" width="350"/>
 </p>
 
-- Java
-- MySQL
-- JDBC
-- Estruturas de Dados
-
+<p align="center">
+Java e Programação Orientada a Objetos <br>
+Banco de Dados (MySQL) <br>
+JDBC <br>
+Estruturas de Dados <br>
+Boas práticas de Desenvolvimento Backend
+</p>
 
 
 
