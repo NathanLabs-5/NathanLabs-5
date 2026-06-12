@@ -29,14 +29,28 @@
 
 ---
 
-# Atualmente estudando  <img width="35" src="https://github.com/user-attachments/assets/d89abd3c-d41d-4007-aa00-bbdf03adf569">
+<table>
+<tr>
+
+<td width="70%">
+
+### Atualmente estudando
 
 - Java e Programação Orientada a Objetos
-- Banco de Dados (MySQL)                                 
+- Banco de Dados (MySQL)
 - Estruturas de Dados
-- Boas práticas de desenvolvimento Backend
+- Backend
 
----
+</td>
+
+<td width="30%">
+
+<img width="150" src="SEU_GIF">
+
+</td>
+
+</tr>
+</table>
 
 # Projetos
 
