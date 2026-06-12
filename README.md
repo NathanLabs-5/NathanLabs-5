@@ -9,7 +9,7 @@
 <p align="center">
    Sistemas de Informação - Unifacisa <br>
    Desenvolvedor Backend em formação <br>
-   Construindo projetos e evoluindo rumo ao primeiro estágio
+   
 </p>
 
 ---
