@@ -6,12 +6,23 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=30&center=true&vCenter=true&width=600&lines=NathanLabs;Backend+Developer;Java+%7C+Python+%7C+SQL" />
 </p>
 
-<p align="center">
- Sistemas de Informação - Unifacisa <br>                                    ![Explosion](assets/Explosion.gif)
- Desenvolvedor Backend em formação <br>
- Construindo projetos e evoluindo rumo ao primeiro estágio
-</p>
+<table>
+<tr>
+<td width="140">
 
+<img src="LINK_DO_SEU_GIF" width="120">
+
+</td>
+
+<td>
+
+<b>Sistemas de Informação - Unifacisa</b><br>
+Desenvolvedor Backend em formação<br>
+Construindo projetos e evoluindo rumo ao primeiro estágio
+
+</td>
+</tr>
+</table>
 ---
 
 ## Tecnologias
