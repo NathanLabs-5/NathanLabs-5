@@ -36,13 +36,22 @@
 
 # Projetos
 
-<table border="0">
-  <tr>
-      - Blue Market (Java + SQL)
-      - CRUD com Banco de Dados
-      - Projetos acadêmicos e estudos pessoais
-  </td>
-      <img width="230" height="230" alt="Black And White Animation GIF" src="https://github.com/user-attachments/assets/99443fcd-bf3b-40ee-b4b9-95ac884ff50a" />
+- Blue Market (Java + SQL)
+- CRUD com Banco de Dados
+- Projetos acadêmicos e estudos pessoais
+
+</td>
+
+<td width="35%" align="center">
+
+ <img width="230" height="230" alt="Black And White Animation GIF" src="https://github.com/user-attachments/assets/99443fcd-bf3b-40ee-b4b9-95ac884ff50a" />
+
+
+</td>
+
+</tr>
+</table>
+  
 
 ---
 
