@@ -27,7 +27,7 @@
 # Atualmente estudando
 
 <p align="center">
-  <img src="SUA_IMAGEM" width="350"/>
+  <img width="735" height="700" alt="pixel deep futuristic design ai aesthetic" src="https://github.com/user-attachments/assets/5dd86496-5085-471f-aa71-68cb131369c1" />
 </p>
 
 <p align="center">
