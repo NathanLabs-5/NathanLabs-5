@@ -7,14 +7,14 @@
 </p>
 
 <p align="center">
-🎓 Sistemas de Informação - Unifacisa <br>
-💻 Desenvolvedor Backend em formação <br>
-🚀 Construindo projetos e evoluindo rumo ao primeiro estágio
+ Sistemas de Informação - Unifacisa <br>
+ Desenvolvedor Backend em formação <br>
+ Construindo projetos e evoluindo rumo ao primeiro estágio
 </p>
 
 ---
 
-## 🚀 Tecnologias
+## Tecnologias
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="50" height="50" />
@@ -24,7 +24,7 @@
 
 ---
 
-## 📚 Atualmente estudando
+## Atualmente estudando
 
 - Java e Programação Orientada a Objetos
 - Banco de Dados (MySQL)
@@ -33,7 +33,7 @@
 
 ---
 
-## 🚀 Projetos
+## Projetos
 
 🔹 Sistema de Cadastro em Python
 
@@ -45,7 +45,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=NathanLabs-5&show_icons=true&theme=transparent" />
@@ -54,7 +54,7 @@
 
 ---
 
-## 🐍 Contribuições
+## Contribuições
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NathanLabs-5/NathanLabs-5/output/github-contribution-grid-snake-dark.svg">
@@ -64,6 +64,6 @@
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Conseguir minha primeira oportunidade como desenvolvedor backend e continuar evoluindo em Java, Python e Banco de Dados.
