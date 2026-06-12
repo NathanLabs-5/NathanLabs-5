@@ -40,19 +40,6 @@
 - CRUD com Banco de Dados
 - Projetos acadêmicos e estudos pessoais
 
-</td>
-
-<td width="35%" align="center">
-
- <img width="230" height="230" alt="Black And White Animation GIF" src="https://github.com/user-attachments/assets/99443fcd-bf3b-40ee-b4b9-95ac884ff50a" />
-
-
-</td>
-
-</tr>
-</table>
-  
-
 ---
 
 # GitHub Stats
@@ -80,5 +67,20 @@
 # Objetivo
 
 Conseguir minha primeira oportunidade como desenvolvedor Backend e continuar evoluindo em Java, Python e Banco de Dados.
+
+</td>
+
+<td width="35%" align="center">
+
+ <img width="230" height="230" alt="Black And White Animation GIF" src="https://github.com/user-attachments/assets/99443fcd-bf3b-40ee-b4b9-95ac884ff50a" />
+
+
+</td>
+
+</tr>
+</table>
+  <img width="735" height="700" alt="pixel deep futuristic design ai aesthetic" src="https://github.com/user-attachments/assets/e995113b-55fc-40af-915b-aa4a1ca0e738" />
+<img width="735" height="700" alt="pixel deep futuristic design ai aesthetic" src="https://github.com/user-attachments/assets/8ecf501b-a36a-4744-9d35-521eb5592cfc" />
+
 
 
