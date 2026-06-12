@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
- Sistemas de Informação - Unifacisa <br>
+ Sistemas de Informação - Unifacisa <br>                                    <!-- Failed to upload "Explosion.gif" -->
  Desenvolvedor Backend em formação <br>
  Construindo projetos e evoluindo rumo ao primeiro estágio
 </p>
