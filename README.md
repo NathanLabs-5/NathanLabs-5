@@ -73,5 +73,5 @@
 Conseguir minha primeira oportunidade como desenvolvedor Backend e continuar evoluindo em Java, Python e Banco de Dados.
 
 
-<img width="310" height="310" alt="Black And White Animation GIF by xponentialdesign" src="https://github.com/user-attachments/assets/99443fcd-bf3b-40ee-b4b9-95ac884ff50a" />
+<img width="230" height="230" alt="Black And White Animation GIF by xponentialdesign" src="https://github.com/user-attachments/assets/99443fcd-bf3b-40ee-b4b9-95ac884ff50a" />
 
