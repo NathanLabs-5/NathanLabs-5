@@ -24,7 +24,12 @@
 
 ---
 
-# Atualmente estudando
+<table>
+<tr>
+
+<td width="65%">
+
+## Atualmente estudando
 
 - Java e Programação Orientada a Objetos
 - Banco de Dados (MySQL)
@@ -32,18 +37,40 @@
 - Estruturas de Dados
 - Boas práticas de desenvolvimento Backend
 
- <img width="300" height="300" alt="pixel deep futuristic design ai aesthetic" src="https://github.com/user-attachments/assets/e995113b-55fc-40af-915b-aa4a1ca0e738" />
+</td>
 
+<td width="35%" align="center">
+
+<img width="300" height="300" alt="pixel deep futuristic design ai aesthetic" src="https://github.com/user-attachments/assets/e995113b-55fc-40af-915b-aa4a1ca0e738" />
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# Projetos
+<table>
+<tr>
 
-- Blue Market (Java + SQL)
-- CRUD com Banco de Dados
-- Projetos acadêmicos e estudos pessoais
+<td width="65%">
 
----
+## Projetos
+
+-  Blue Market (Java + SQL)
+-  CRUD com Banco de Dados
+-  Projetos acadêmicos e estudos pessoais
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="SEU_GIF" width="230"/>
+
+</td>
+
+</tr>
+</table>
 
 # GitHub Stats
 
