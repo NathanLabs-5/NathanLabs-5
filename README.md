@@ -36,16 +36,16 @@
 
 # Projetos
 
-<table>
+<table border="0">
   <tr>
-    <td valign="top">
-      <p>🔹 <strong>Blue Market</strong> (Java + SQL)</p>
-      <p>🔹 <strong>Sistema de Cadastro em Python</strong></p>
-      <p>🔹 <strong>CRUD com Banco de Dados</strong></p>
-      <p>🔹 <strong>Projetos acadêmicos e estudos pessoais</strong></p>
+    <td valign="top" width="500">
+      <p><strong>Blue Market</strong> (Java + SQL)</p>
+      <p><strong>Sistema de Cadastro em Python</strong></p>
+      <p><strong>CRUD com Banco de Dados</strong></p>
+      <p><strong>Projetos acadêmicos e estudos pessoais</strong></p>
     </td>
     <td valign="middle">
-      <img width="230" height="230" alt="Black And White Animation GIF by xponentialdesign" src="https://github.com/user-attachments/assets/99443fcd-bf3b-40ee-b4b9-95ac884ff50a" />
+      <img width="230" height="230" alt="Black And White Animation GIF" src="https://github.com/user-attachments/assets/99443fcd-bf3b-40ee-b4b9-95ac884ff50a" />
     </td>
   </tr>
 </table>
@@ -78,6 +78,4 @@
 
 Conseguir minha primeira oportunidade como desenvolvedor Backend e continuar evoluindo em Java, Python e Banco de Dados.
 
-
-<img width="230" height="230" alt="Black And White Animation GIF by xponentialdesign" src="https://github.com/user-attachments/assets/99443fcd-bf3b-40ee-b4b9-95ac884ff50a" />
 
