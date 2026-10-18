@@ -30,12 +30,12 @@
   <!-- Ferramentas -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="50" height="50" alt="Git" />
 
-  <!-- Back-end e frameworks -->
+  <!-- Back-end -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" width="50" height="50" alt="Spring Boot" />
   <img src="https://cdn.simpleicons.org/fastapi/009688" width="50" height="50" alt="FastAPI" />
 
-  <!-- Autenticação -->
-  <img src="https://cdn.simpleicons.org/jsonwebtokens/000000" width="50" height="50" alt="JWT" />
+  <!-- Segurança -->
+  <img src="https://cdn.simpleicons.org/jsonwebtokens/00A6FB" width="50" height="50" alt="JWT" />
 </p>
 
 ---
