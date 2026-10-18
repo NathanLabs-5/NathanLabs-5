@@ -17,9 +17,25 @@
 # Tecnologias
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" />
+  <!-- Linguagens -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="50" height="50" alt="Java" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="50" height="50" alt="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" alt="MySQL" />
+
+  <!-- Front-end -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50" alt="CSS3" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
+
+  <!-- Ferramentas -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="50" height="50" alt="Git" />
+
+  <!-- Back-end e frameworks -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" width="50" height="50" alt="Spring Boot" />
+  <img src="https://cdn.simpleicons.org/fastapi/009688" width="50" height="50" alt="FastAPI" />
+
+  <!-- Autenticação -->
+  <img src="https://cdn.simpleicons.org/jsonwebtokens/000000" width="50" height="50" alt="JWT" />
 </p>
 
 ---
